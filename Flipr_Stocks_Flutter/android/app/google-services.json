@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "206450177024",
+    "project_id": "stock-d2395",
+    "storage_bucket": "stock-d2395.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206450177024:android:a493c4e9337df98c9354e5",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206450177024-2urrndpkvq1kifs0l47g70nteloovvf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BP9avwSC1uxVNNx-BTSMkl0BcFHxOxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206450177024-2urrndpkvq1kifs0l47g70nteloovvf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206450177024:android:f39428417f49c1949354e5",
+        "android_client_info": {
+          "package_name": "com.flipr.stockz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206450177024-2urrndpkvq1kifs0l47g70nteloovvf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BP9avwSC1uxVNNx-BTSMkl0BcFHxOxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206450177024-2urrndpkvq1kifs0l47g70nteloovvf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
